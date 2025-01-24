@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\project\Графы\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\project\Графы\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(113,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Графы\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(123,50): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Графы\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(157,28): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\project\Графы\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(166,28): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\project\Графы\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(173,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\project\Графы\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
