@@ -1,0 +1,6 @@
+﻿  Lab2_Stoianova.cpp
+D:\project\Графы\Stoianova_Lab2\Lab2_Stoianova\Lab2_Stoianova\Lab2_Stoianova.cpp(33,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\project\Графы\Stoianova_Lab2\Lab2_Stoianova\Lab2_Stoianova\Lab2_Stoianova.cpp(63,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Графы\Stoianova_Lab2\Lab2_Stoianova\Lab2_Stoianova\Lab2_Stoianova.cpp(107,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Графы\Stoianova_Lab2\Lab2_Stoianova\Lab2_Stoianova\Lab2_Stoianova.cpp(118,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab2_Stoianova.vcxproj -> D:\project\Графы\Stoianova_Lab2\Lab2_Stoianova\x64\Debug\Lab2_Stoianova.exe

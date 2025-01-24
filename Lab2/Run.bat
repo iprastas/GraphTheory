@@ -1,0 +1,1 @@
+Lab2_Stoianova.exe Input.txt Output.txt
