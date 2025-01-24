@@ -1,0 +1,13 @@
+﻿  Lab6_Stoianova.cpp
+D:\project\Графы\Stoianova_Lab6\Lab6_Stoianova\Lab6_Stoianova\Lab6_Stoianova.cpp(96,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\project\Графы\Stoianova_Lab6\Lab6_Stoianova\Lab6_Stoianova\Lab6_Stoianova.cpp(123,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\project\Графы\Stoianova_Lab6\Lab6_Stoianova\Lab6_Stoianova\Lab6_Stoianova.cpp(123,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\project\Графы\Stoianova_Lab6\Lab6_Stoianova\Lab6_Stoianova\Lab6_Stoianova.cpp(125,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\project\Графы\Stoianova_Lab6\Lab6_Stoianova\Lab6_Stoianova\Lab6_Stoianova.cpp(125,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\project\Графы\Stoianova_Lab6\Lab6_Stoianova\Lab6_Stoianova\Lab6_Stoianova.cpp(129,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 558 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab6_Stoianova.vcxproj -> D:\project\Графы\Stoianova_Lab6\Lab6_Stoianova\Release\Lab6_Stoianova.exe
