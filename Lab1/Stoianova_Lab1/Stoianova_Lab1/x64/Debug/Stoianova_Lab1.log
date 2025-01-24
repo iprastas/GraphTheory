@@ -1,0 +1,3 @@
+﻿  Stoianova_Lab1.cpp
+D:\project\Графы\Lab1\Stoianova_Lab1\Stoianova_Lab1\Stoianova_Lab1.cpp(33,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Stoianova_Lab1.vcxproj -> D:\project\Графы\Lab1\Stoianova_Lab1\x64\Debug\Stoianova_Lab1.exe
