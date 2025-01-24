@@ -1,0 +1,8 @@
+﻿  Lab5_Stoianova.cpp
+D:\project\Графы\Stoianova_Lab5\Lab5_Stoianova\Lab5_Stoianova\Lab5_Stoianova.cpp(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\project\Графы\Stoianova_Lab5\Lab5_Stoianova\Lab5_Stoianova\Lab5_Stoianova.cpp(107,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 570 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab5_Stoianova.vcxproj -> D:\project\Графы\Stoianova_Lab5\Lab5_Stoianova\Release\Lab5_Stoianova.exe
